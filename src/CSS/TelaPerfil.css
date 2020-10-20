@@ -1,0 +1,29 @@
+.buddy-perfil {
+  display: flex;
+  flex-direction: column;
+  margin: 100px 10px;
+}
+
+.profile-email {
+  font-size: 20px;
+  margin-bottom: 80px;
+  word-break: break-all;
+}
+
+.profile-btn {
+  background-color: #e07d0d;
+  border-radius: 10px;
+  font-size: 20px;
+  height: 32px;
+  margin-top: 10%;
+  width: 100%;
+}
+
+.profile-logout-btn {
+  background-color: #be1307;
+  border-radius: 10px;
+  font-size: 25px;
+  height: 40px;
+  margin: 30% 20%;
+  width: 60%;
+}

@@ -1,0 +1,15 @@
+.explorarBCBuddy {
+  display: flex;
+  flex-direction: column;
+  margin: 150px 10px;
+
+}
+
+.buttonBC {
+  background-color: #e07d0d;
+  border-radius: 10px;
+  font-size: 20px;
+  height: 60px;
+  margin-top: 10%;
+  width: 100%;
+}

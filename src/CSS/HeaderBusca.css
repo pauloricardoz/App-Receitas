@@ -1,0 +1,51 @@
+.Bar-Busca-Header {
+  background: #e07d0d;
+  display: flex;
+  height: 60px;
+  justify-content: space-around;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.Top-Btn {
+  align-self: center;
+}
+
+.Bar-Busca-Header-text {
+  align-self: center;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.search {
+  background-color: rgb(20, 20, 20);
+  margin: 60px 0 10px;
+  padding-bottom: 3px;
+}
+
+.search-input {
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 10px;
+  margin: 5px 1px;
+  width: 96%;
+}
+
+.search-radio {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 5px;
+}
+
+.Button-buscar {
+  background: #e07d0d;
+  border-radius: 5px;
+  color: white;
+  font-weight: 900;
+  height: 30px;
+  margin: 0 10% 3px;
+}

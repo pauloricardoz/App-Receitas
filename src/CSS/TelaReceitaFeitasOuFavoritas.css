@@ -1,0 +1,104 @@
+.feitasBuddy {
+  margin: 20% 2%;
+}
+
+.DetelhesBuddy {
+  margin: 10px 20px 60px;
+}
+
+.campoTitle {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.recipe-title {
+  margin: 0;
+}
+
+.recipe-category {
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0 0 0 30px;
+}
+
+.subTitle {
+  margin: 20px 5px 5px;
+}
+
+.yellowCamp {
+  background-color: #e07d0d;
+  border-radius: 10px;
+  color: black;
+  margin: 0 2%;
+  padding: 20px;
+  width: 29%;
+}
+
+.recomendation-card {
+  color: white;
+  text-decoration: none;
+}
+
+.recomendation-title {
+  text-align: center;
+}
+
+.start-recipe-btn {
+  background-color: #e07d0d;
+  border-radius: 10px;
+  bottom: 0;
+  font-size: 20px;
+  height: 50px;
+  margin: 1%;
+  position: fixed;
+  width: 98%;
+}
+
+
+/* card */
+.receitaCard {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 10%;
+  margin: 5% 0;
+  padding-bottom: 3%;
+
+
+}
+
+.buddyCard {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+}
+
+.horizontal-image {
+  border-radius: 10% 10% 0 0;
+  margin: 0;
+  width: 100%;
+}
+
+.textCard {
+  color: black;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  width: 80%;
+}
+
+.iconCard {
+  background-color: #be1307;
+  border-radius: 100px;
+  padding: 5px 20px;
+}
+
+.nomeCard {
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.feitaCard {
+  color: black;
+  text-align: center;
+}

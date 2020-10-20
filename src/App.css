@@ -1,0 +1,38 @@
+.naoEncontrada {
+  color: white;
+  margin: 20%;
+  text-align: center;
+}
+
+#meals {
+  height: 100vh;
+  width: 100%;
+  background: #0fa36b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  color: #464646;
+}
+
+.voltarLink {
+  position: absolute;
+  font-weight: 800;
+  text-decoration: none;
+  z-index: 999;
+}
+
+.shareDescripiton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#meals > span {
+  color: aliceblue;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  animation: shake 1.5s infinite ease;
+}
